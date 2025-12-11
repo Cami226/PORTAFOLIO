@@ -33,6 +33,7 @@ Soy estudiante de Bootcamp y desarrolladora en formación, con conocimientos en 
 
 ---
 
-## 🖼️ Banner / Imagen
 
-![Mi banner](assets/banner-portafolio.png)
+## 📄 Licencia
+
+Este proyecto está bajo la licencia [MIT](LICENSE).
