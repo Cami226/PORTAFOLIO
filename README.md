@@ -11,7 +11,8 @@ Soy estudiante de Bootcamp y desarrolladora en formación, con conocimientos en 
 ## 🚀 Proyectos destacados
 
 - [Portafolio Bootcamp FullStack Java](https://github.com/Cami226/Portafolio-CAGV) — Portafolio personal con proyectos de práctica en HTML, CSS, JavaScript y GitHub Pages.
-- [API CRUD Java & Spring](https://github.com/Cami226/API-CRUD-Java-Spring) — Proyecto académico de gestión de datos usando Java, Spring y MySQL.
+- [Portafolio Mod 3 - Base de Datos CAGV](https://github.com/Cami226/PORTAFOLIO-MOD-3--BASE-DE-DATOS-CAGV) — Proyecto realizado en MySQL
+
 - [Proyecto de prueba FrontEnd](https://github.com/Cami226/Proyecto-FrontEnd) — Página web estática con diseño responsivo usando HTML, CSS y Bootstrap.
 
 ---
